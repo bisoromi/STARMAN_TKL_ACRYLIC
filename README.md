@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://vignette.wikia.nocookie.net/earthbound/images/b/b6/Starman_Clay_Model.png" width=25%>
+</p>
+
 # STARMAN ACRYLIC
 Open source files for Starman acrylic version which is part of the "Starman" series of mechanical keyboards created by me. The Starman series features a stepless adjustable angle which starts from zero degrees and can go as high as you can feasibly make it (With a long enough rod). The angle is adjusted by turning the knob on top of the keyboard either clockwise to increase the angle, or counter-clockwise to lower the angle.
 
@@ -5,6 +9,10 @@ Open source files for Starman acrylic version which is part of the "Starman" ser
 **Starman** - Aluminum TKL  
 **Starman Junior** - Aluminum 60%  
 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/675725262259879939/703036227367993424/DSC00667.JPG" width=75%>
+  <img src="https://cdn.discordapp.com/attachments/675725262259879939/727576845997834300/image1.jpg" width=75%>
+</p>
 
 ## Hardware
 
