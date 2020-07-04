@@ -1,5 +1,4 @@
 # STARMAN ACRYLIC
----
 Open source files for Starman acrylic version which is part of the "Starman" series created by me.
 
 Starman Acrylic - Stacked Acrylic TKL  
