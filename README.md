@@ -8,17 +8,6 @@ Open source files for Starman acrylic version which is part of the "Starman" ser
 **Starman Acrylic** - Stacked Acrylic TKL  
 **Starman** - Aluminum TKL  
 **Starman Junior** - Aluminum 60%  
-<br />  
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/675725262259879939/703036227367993424/DSC00667.JPG" width=75%>
-  <p align="center"><i>Photo by dq</i></p>
-</p>
-<br />  
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/675725262259879939/727576845997834300/image1.jpg" width=75%>
-  <p align="center"><i>Photo by Yui</i></p>
-</p>  
-<br />  
 
 ## Hardware
 
@@ -47,4 +36,17 @@ In this directory you will find the .DXF files that are ready to be sent to a ma
 Just random pictures that might help visualize the design before opening any files.
 
 `<PROJECT_NAME> <PROJECT_VERSION_NUMBER>.f3z`  
-This is the Fusion360 file that will give you a full copy of the original design including the timeline history which allows you to edit any feature as needed! You can also use this file to export any other file formats that aren't in this repo. Go crazy!!!!
+This is the Fusion360 file that will give you a full copy of the original design including the timeline history which allows you to edit any feature as needed! You can also use this file to export any other file formats that aren't in this repo. Go crazy!!!!  
+
+<br />  
+<br />  
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/675725262259879939/703036227367993424/DSC00667.JPG" width=75%>
+  <p align="center"><i>Photo by dq</i></p>
+</p>
+<br />  
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/675725262259879939/727576845997834300/image1.jpg" width=75%>
+  <p align="center"><i>Photo by Yui</i></p>
+</p>  
