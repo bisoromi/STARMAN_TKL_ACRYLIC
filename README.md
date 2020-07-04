@@ -9,11 +9,11 @@ Open source files for Starman acrylic version which is part of the "Starman" ser
 **Starman** - Aluminum TKL  
 **Starman Junior** - Aluminum 60%  
 
-<br />  
-  
 <p align="center">
   <img src="https://media.discordapp.net/attachments/675725262259879939/703036227367993424/DSC00667.JPG" width=75%>
+  <p align="center"><i>Photo by dq</i></p>
   <img src="https://cdn.discordapp.com/attachments/675725262259879939/727576845997834300/image1.jpg" width=75%>
+  <p align="center"><i>Photo by Yui</i></p>
 </p>  
 
 ## Hardware
